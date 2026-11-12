@@ -1,0 +1,4928 @@
+[
+  {
+    "id": 14,
+    "title": "Aura Embroidered Tiered Maxi Dress",
+    "slug": "aura-embroidered-tiered-maxi-dress",
+    "description": "An ethereal bohemian silhouette cut from airy rayon crêpe. Features intricate floral tonal embroidery, a cinched drawstring waist, romantic tiering, and flutter sleeve cuffs. Designed for golden hour beach walks and weekend garden brunches. Machine wash cold, dry flat.",
+    "price": 2499,
+    "compare_at_price": 3399,
+    "category_id": 6,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-DRS-001",
+    "stock": 80,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "dress,boho,summer,evening,chic,midi,maxi,floral,aura,embroidered,tiered,maxi,dress,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:28.005196+00:00",
+    "updated_at": "2026-11-11T16:44:28.005196+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-dresses-p1-img1-264948.jpg",
+        "alt_text": "Aura Embroidered Tiered Maxi Dress - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-dresses-p1-img2-264953.jpg",
+        "alt_text": "Aura Embroidered Tiered Maxi Dress - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p1-img3-264958.jpg",
+        "alt_text": "Aura Embroidered Tiered Maxi Dress - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p1-img4-264962.jpg",
+        "alt_text": "Aura Embroidered Tiered Maxi Dress - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 14,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-DRS-001-S"
+      },
+      {
+        "product_id": 14,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-DRS-001-M"
+      },
+      {
+        "product_id": 14,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-DRS-001-L"
+      },
+      {
+        "product_id": 14,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-DRS-001-XL"
+      },
+      {
+        "product_id": 14,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-DRS-001-XXL"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Soleil Backless Linen Slip Dress",
+    "slug": "soleil-backless-linen-slip-dress",
+    "description": "Crafted from 100% European flax linen with a breathable, pre-softened drape. Defined by a delicate scooped neckline, crossover open-back ties, and a graceful midi hem with subtle side slits. Effortlessly pairs with slide sandals or block heels. Hand wash cold.",
+    "price": 2749,
+    "compare_at_price": 3699,
+    "category_id": 6,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-DRS-002",
+    "stock": 90,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "dress,boho,summer,evening,chic,midi,maxi,floral,soleil,backless,linen,slip,dress,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:30.312168+00:00",
+    "updated_at": "2026-11-11T16:44:30.312168+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-dresses-p2-img1-267227.jpg",
+        "alt_text": "Soleil Backless Linen Slip Dress - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-dresses-p2-img2-267228.jpg",
+        "alt_text": "Soleil Backless Linen Slip Dress - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p2-img3-267230.jpg",
+        "alt_text": "Soleil Backless Linen Slip Dress - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p2-img4-267231.jpg",
+        "alt_text": "Soleil Backless Linen Slip Dress - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 15,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-DRS-002-S"
+      },
+      {
+        "product_id": 15,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-DRS-002-M"
+      },
+      {
+        "product_id": 15,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-DRS-002-L"
+      },
+      {
+        "product_id": 15,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-DRS-002-XL"
+      },
+      {
+        "product_id": 15,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-DRS-002-XXL"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Verona Satin Bias Cut Midi Dress",
+    "slug": "verona-satin-bias-cut-midi-dress",
+    "description": "An iconic 90s-inspired slip dress woven from ultra-lustrous EcoVero viscose satin. Features a body-skimming bias cut that drapes naturally over the silhouette, skinny adjustable straps, and fine French seam finishing. Dry clean recommended.",
+    "price": 2999,
+    "compare_at_price": 3999,
+    "category_id": 6,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-DRS-003",
+    "stock": 100,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "dress,boho,summer,evening,chic,midi,maxi,floral,verona,satin,bias,cut,midi,dress,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:32.791667+00:00",
+    "updated_at": "2026-11-11T16:44:32.791667+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-dresses-p3-img1-269347.jpg",
+        "alt_text": "Verona Satin Bias Cut Midi Dress - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-dresses-p3-img2-269349.jpg",
+        "alt_text": "Verona Satin Bias Cut Midi Dress - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p3-img3-269350.jpg",
+        "alt_text": "Verona Satin Bias Cut Midi Dress - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p3-img4-269351.jpg",
+        "alt_text": "Verona Satin Bias Cut Midi Dress - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 16,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-DRS-003-S"
+      },
+      {
+        "product_id": 16,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-DRS-003-M"
+      },
+      {
+        "product_id": 16,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-DRS-003-L"
+      },
+      {
+        "product_id": 16,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-DRS-003-XL"
+      },
+      {
+        "product_id": 16,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-DRS-003-XXL"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Meadow Ruffled Cottagecore Smocked Dress",
+    "slug": "meadow-ruffled-cottagecore-smocked-dress",
+    "description": "Charming vintage aesthetic featuring an elasticated smocked bodice, ruffled sweetheart neckline, and voluminous puff sleeves that can be worn on or off the shoulder. Finished with delicate micro-florals on organic cotton lawn. Gentle cycle cold.",
+    "price": 3249,
+    "compare_at_price": 4399,
+    "category_id": 6,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-DRS-004",
+    "stock": 110,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "dress,boho,summer,evening,chic,midi,maxi,floral,meadow,ruffled,cottagecore,smocked,dress,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:34.775416+00:00",
+    "updated_at": "2026-11-11T16:44:34.775416+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-dresses-p4-img1-271479.jpg",
+        "alt_text": "Meadow Ruffled Cottagecore Smocked Dress - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-dresses-p4-img2-271480.jpg",
+        "alt_text": "Meadow Ruffled Cottagecore Smocked Dress - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p4-img3-271481.jpg",
+        "alt_text": "Meadow Ruffled Cottagecore Smocked Dress - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p4-img4-271481.jpg",
+        "alt_text": "Meadow Ruffled Cottagecore Smocked Dress - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 17,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-DRS-004-S"
+      },
+      {
+        "product_id": 17,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-DRS-004-M"
+      },
+      {
+        "product_id": 17,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-DRS-004-L"
+      },
+      {
+        "product_id": 17,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-DRS-004-XL"
+      },
+      {
+        "product_id": 17,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-DRS-004-XXL"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Isla Pleated Halter Evening Gown",
+    "slug": "isla-pleated-halter-evening-gown",
+    "description": "Sophisticated glamour for unforgettable celebrations. Accented with accordion micro-pleating, an elegant halter neckline with neck-tie drapery, and a sweeping floor-length hemline. Lined with silky breathable fabric.",
+    "price": 3499,
+    "compare_at_price": 4699,
+    "category_id": 6,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-DRS-005",
+    "stock": 120,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "dress,boho,summer,evening,chic,midi,maxi,floral,isla,pleated,halter,evening,gown,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:41.591538+00:00",
+    "updated_at": "2026-11-11T16:44:41.591538+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-dresses-p5-img1-273589.jpg",
+        "alt_text": "Isla Pleated Halter Evening Gown - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-dresses-p5-img2-273589.jpg",
+        "alt_text": "Isla Pleated Halter Evening Gown - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p5-img3-273589.jpg",
+        "alt_text": "Isla Pleated Halter Evening Gown - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p5-img4-273590.jpg",
+        "alt_text": "Isla Pleated Halter Evening Gown - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 18,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-DRS-005-S"
+      },
+      {
+        "product_id": 18,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-DRS-005-M"
+      },
+      {
+        "product_id": 18,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-DRS-005-L"
+      },
+      {
+        "product_id": 18,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-DRS-005-XL"
+      },
+      {
+        "product_id": 18,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-DRS-005-XXL"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Dahlia Button-Front Utility Shirt Dress",
+    "slug": "dahlia-button-front-utility-shirt-dress",
+    "description": "The modern workwear-to-weekend silhouette. Woven in crisp washed cotton-twill with tortoise buttons, a self-tie waist belt, structured collar, and deep utilitarian patch pockets. Pair with white sneakers or Chelsea boots.",
+    "price": 3749,
+    "compare_at_price": 5099,
+    "category_id": 6,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-DRS-006",
+    "stock": 130,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "dress,boho,summer,evening,chic,midi,maxi,floral,dahlia,button,front,utility,shirt,dress,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:45.627546+00:00",
+    "updated_at": "2026-11-11T16:44:45.627546+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-dresses-p6-img1-280827.jpg",
+        "alt_text": "Dahlia Button-Front Utility Shirt Dress - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-dresses-p6-img2-280828.jpg",
+        "alt_text": "Dahlia Button-Front Utility Shirt Dress - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p6-img3-280830.jpg",
+        "alt_text": "Dahlia Button-Front Utility Shirt Dress - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p6-img4-280832.jpg",
+        "alt_text": "Dahlia Button-Front Utility Shirt Dress - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 19,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-DRS-006-S"
+      },
+      {
+        "product_id": 19,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-DRS-006-M"
+      },
+      {
+        "product_id": 19,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-DRS-006-L"
+      },
+      {
+        "product_id": 19,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-DRS-006-XL"
+      },
+      {
+        "product_id": 19,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-DRS-006-XXL"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Celeste Knit Ribbed Bodycon Midi Dress",
+    "slug": "celeste-knit-ribbed-bodycon-midi-dress",
+    "description": "Knitted from a dense, stretchy modal-cotton rib that hugs curves comfortably while retaining its shape. Styled with long sleeves, a jewel crewneck, and a clean calf-grazing hem. A timeless cold-weather layer. Machine wash cold.",
+    "price": 3999,
+    "compare_at_price": 5399,
+    "category_id": 6,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-DRS-007",
+    "stock": 140,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "dress,boho,summer,evening,chic,midi,maxi,floral,celeste,knit,ribbed,bodycon,midi,dress,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:47.7697+00:00",
+    "updated_at": "2026-11-11T16:44:47.7697+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-dresses-p7-img1-284399.jpg",
+        "alt_text": "Celeste Knit Ribbed Bodycon Midi Dress - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-dresses-p7-img2-284400.jpg",
+        "alt_text": "Celeste Knit Ribbed Bodycon Midi Dress - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p7-img3-284401.jpg",
+        "alt_text": "Celeste Knit Ribbed Bodycon Midi Dress - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-dresses-p7-img4-284409.jpg",
+        "alt_text": "Celeste Knit Ribbed Bodycon Midi Dress - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 20,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-DRS-007-S"
+      },
+      {
+        "product_id": 20,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-DRS-007-M"
+      },
+      {
+        "product_id": 20,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-DRS-007-L"
+      },
+      {
+        "product_id": 20,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-DRS-007-XL"
+      },
+      {
+        "product_id": 20,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-DRS-007-XXL"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Pacific Sun Vintage Heavyweight Graphic Tee",
+    "slug": "pacific-sun-vintage-heavyweight-graphic-tee",
+    "description": "Crafted from ultra-durable 240 GSM combed organic cotton. Features custom washed retro typography screen-printed with soft water-based ink. Built with drop shoulders, blind stitch hems, and a thick ribbed crew collar that never loses shape.",
+    "price": 999,
+    "compare_at_price": 1299,
+    "category_id": 3,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-TSH-001",
+    "stock": 80,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "tshirt,graphic-tee,cotton,oversized,streetwear,vintage-wash,pacific,sun,vintage,heavyweight,graphic,tee,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:51.582175+00:00",
+    "updated_at": "2026-11-11T16:44:51.582175+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-t-shirts-p1-img1-288860.jpg",
+        "alt_text": "Pacific Sun Vintage Heavyweight Graphic Tee - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p1-img2-288861.jpg",
+        "alt_text": "Pacific Sun Vintage Heavyweight Graphic Tee - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p1-img3-288861.jpg",
+        "alt_text": "Pacific Sun Vintage Heavyweight Graphic Tee - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p1-img4-288861.jpg",
+        "alt_text": "Pacific Sun Vintage Heavyweight Graphic Tee - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 21,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-TSH-001-S"
+      },
+      {
+        "product_id": 21,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-TSH-001-M"
+      },
+      {
+        "product_id": 21,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-TSH-001-L"
+      },
+      {
+        "product_id": 21,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-TSH-001-XL"
+      },
+      {
+        "product_id": 21,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-TSH-001-XXL"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Retro Desert Highway Distressed Tee",
+    "slug": "retro-desert-highway-distressed-tee",
+    "description": "A throwback graphic t-shirt treated with an authentic mineral acid wash for an authentic lived-in patina. Softened with a silicone enzyme wash, featuring subtly cracked vintage artwork across the chest. 100% pre-shrunk cotton.",
+    "price": 1249,
+    "compare_at_price": 1699,
+    "category_id": 3,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-TSH-002",
+    "stock": 90,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "tshirt,graphic-tee,cotton,oversized,streetwear,vintage-wash,retro,desert,highway,distressed,tee,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:53.374257+00:00",
+    "updated_at": "2026-11-11T16:44:53.374257+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-t-shirts-p2-img1-290367.jpg",
+        "alt_text": "Retro Desert Highway Distressed Tee - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p2-img2-290367.jpg",
+        "alt_text": "Retro Desert Highway Distressed Tee - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p2-img3-290368.jpg",
+        "alt_text": "Retro Desert Highway Distressed Tee - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p2-img4-290369.jpg",
+        "alt_text": "Retro Desert Highway Distressed Tee - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 22,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-TSH-002-S"
+      },
+      {
+        "product_id": 22,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-TSH-002-M"
+      },
+      {
+        "product_id": 22,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-TSH-002-L"
+      },
+      {
+        "product_id": 22,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-TSH-002-XL"
+      },
+      {
+        "product_id": 22,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-TSH-002-XXL"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Essential Boxy Drop-Shoulder Tee",
+    "slug": "essential-boxy-drop-shoulder-tee",
+    "description": "The definitive minimalist heavyweight tee. Relaxed, structured boxy silhouette with wide sleeves and reinforced collar tape. Made from 100% Supima long-staple cotton for extraordinary softness and long-lasting color brilliance.",
+    "price": 1499,
+    "compare_at_price": 1999,
+    "category_id": 3,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-TSH-003",
+    "stock": 100,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "tshirt,graphic-tee,cotton,oversized,streetwear,vintage-wash,essential,boxy,drop,shoulder,tee,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:55.331921+00:00",
+    "updated_at": "2026-11-11T16:44:55.331921+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-t-shirts-p3-img1-292201.jpg",
+        "alt_text": "Essential Boxy Drop-Shoulder Tee - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p3-img2-292202.jpg",
+        "alt_text": "Essential Boxy Drop-Shoulder Tee - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p3-img3-292202.jpg",
+        "alt_text": "Essential Boxy Drop-Shoulder Tee - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p3-img4-292203.jpg",
+        "alt_text": "Essential Boxy Drop-Shoulder Tee - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 23,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-TSH-003-S"
+      },
+      {
+        "product_id": 23,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-TSH-003-M"
+      },
+      {
+        "product_id": 23,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-TSH-003-L"
+      },
+      {
+        "product_id": 23,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-TSH-003-XL"
+      },
+      {
+        "product_id": 23,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-TSH-003-XXL"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Heritage Breton Striped Pocket Tee",
+    "slug": "heritage-breton-striped-pocket-tee",
+    "description": "Classic nautical-inspired horizontal yarn-dyed stripes with a single patch pocket on the chest. Knitted from breathable 180 GSM single-jersey cotton with reinforced seams. Perfect for warm-weather layering.",
+    "price": 1749,
+    "compare_at_price": 2399,
+    "category_id": 3,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-TSH-004",
+    "stock": 110,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "tshirt,graphic-tee,cotton,oversized,streetwear,vintage-wash,heritage,breton,striped,pocket,tee,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:44:58.213889+00:00",
+    "updated_at": "2026-11-11T16:44:58.213889+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-t-shirts-p4-img1-293987.jpg",
+        "alt_text": "Heritage Breton Striped Pocket Tee - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p4-img2-293988.jpg",
+        "alt_text": "Heritage Breton Striped Pocket Tee - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p4-img3-293989.jpg",
+        "alt_text": "Heritage Breton Striped Pocket Tee - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p4-img4-293989.jpg",
+        "alt_text": "Heritage Breton Striped Pocket Tee - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 24,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-TSH-004-S"
+      },
+      {
+        "product_id": 24,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-TSH-004-M"
+      },
+      {
+        "product_id": 24,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-TSH-004-L"
+      },
+      {
+        "product_id": 24,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-TSH-004-XL"
+      },
+      {
+        "product_id": 24,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-TSH-004-XXL"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Acid Wash Gothic Typography Oversized Tee",
+    "slug": "acid-wash-gothic-typography-oversized-tee",
+    "description": "Streetwear staple engineered with a wide skate fit. Features distressed collar details, charcoal pigment dye treatment, and bold archival typography front and back. Designed for effortless streetwear pairings.",
+    "price": 1899,
+    "compare_at_price": 2599,
+    "category_id": 3,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-TSH-005",
+    "stock": 120,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "tshirt,graphic-tee,cotton,oversized,streetwear,vintage-wash,acid,wash,gothic,typography,oversized,tee,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:00.077151+00:00",
+    "updated_at": "2026-11-11T16:45:00.077151+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-t-shirts-p5-img1-297009.jpg",
+        "alt_text": "Acid Wash Gothic Typography Oversized Tee - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p5-img2-297009.jpg",
+        "alt_text": "Acid Wash Gothic Typography Oversized Tee - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p5-img3-297009.jpg",
+        "alt_text": "Acid Wash Gothic Typography Oversized Tee - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p5-img4-297010.jpg",
+        "alt_text": "Acid Wash Gothic Typography Oversized Tee - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 25,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-TSH-005-S"
+      },
+      {
+        "product_id": 25,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-TSH-005-M"
+      },
+      {
+        "product_id": 25,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-TSH-005-L"
+      },
+      {
+        "product_id": 25,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-TSH-005-XL"
+      },
+      {
+        "product_id": 25,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-TSH-005-XXL"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Washed Earth Tone Raw-Hem Henley Tee",
+    "slug": "washed-earth-tone-raw-hem-henley-tee",
+    "description": "Vintage military style updated for everyday wear. Three-button horn placket, raw edge cuffs, and garment-dyed olive hue that grows more character with every wash. 100% textured slub cotton.",
+    "price": 1899,
+    "compare_at_price": 2599,
+    "category_id": 3,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-TSH-006",
+    "stock": 130,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "tshirt,graphic-tee,cotton,oversized,streetwear,vintage-wash,washed,earth,tone,raw,hem,henley,tee,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:01.942585+00:00",
+    "updated_at": "2026-11-11T16:45:01.942585+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-t-shirts-p6-img1-298763.jpg",
+        "alt_text": "Washed Earth Tone Raw-Hem Henley Tee - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p6-img2-298764.jpg",
+        "alt_text": "Washed Earth Tone Raw-Hem Henley Tee - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p6-img3-298764.jpg",
+        "alt_text": "Washed Earth Tone Raw-Hem Henley Tee - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p6-img4-298764.jpg",
+        "alt_text": "Washed Earth Tone Raw-Hem Henley Tee - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 26,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-TSH-006-S"
+      },
+      {
+        "product_id": 26,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-TSH-006-M"
+      },
+      {
+        "product_id": 26,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-TSH-006-L"
+      },
+      {
+        "product_id": 26,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-TSH-006-XL"
+      },
+      {
+        "product_id": 26,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-TSH-006-XXL"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Tokyo Cyberpunk Neon Graphic Tee",
+    "slug": "tokyo-cyberpunk-neon-graphic-tee",
+    "description": "Modern Japanese streetwear aesthetic featuring vibrant multi-layer screen prints on jet-black ringspun cotton. Relaxed streetwear fit with reinforced dual-needle stitching throughout.",
+    "price": 1899,
+    "compare_at_price": 2599,
+    "category_id": 3,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-TSH-007",
+    "stock": 140,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "tshirt,graphic-tee,cotton,oversized,streetwear,vintage-wash,tokyo,cyberpunk,neon,graphic,tee,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:03.850153+00:00",
+    "updated_at": "2026-11-11T16:45:03.850153+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-t-shirts-p7-img1-300682.jpg",
+        "alt_text": "Tokyo Cyberpunk Neon Graphic Tee - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p7-img2-300683.jpg",
+        "alt_text": "Tokyo Cyberpunk Neon Graphic Tee - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p7-img3-300684.jpg",
+        "alt_text": "Tokyo Cyberpunk Neon Graphic Tee - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-t-shirts-p7-img4-300684.jpg",
+        "alt_text": "Tokyo Cyberpunk Neon Graphic Tee - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 27,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-TSH-007-S"
+      },
+      {
+        "product_id": 27,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-TSH-007-M"
+      },
+      {
+        "product_id": 27,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-TSH-007-L"
+      },
+      {
+        "product_id": 27,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-TSH-007-XL"
+      },
+      {
+        "product_id": 27,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-TSH-007-XXL"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Sylvan Heritage Relaxed French Linen Shirt",
+    "slug": "sylvan-heritage-relaxed-french-linen-shirt",
+    "description": "Spun from pure Normandy flax linen with a breezy, airy texture that naturally cools in warm climates. Features mother-of-pearl buttons, a relaxed soft camp collar, and a slightly curved shirttail hem. Becomes softer with each wash.",
+    "price": 1499,
+    "compare_at_price": 1999,
+    "category_id": 4,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-SHT-001",
+    "stock": 80,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "shirt,linen,button-down,blouse,casual,formal,cotton,sylvan,heritage,relaxed,french,linen,shirt,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:08.653756+00:00",
+    "updated_at": "2026-11-11T16:45:08.653756+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-shirts-p1-img1-304966.jpg",
+        "alt_text": "Sylvan Heritage Relaxed French Linen Shirt - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-shirts-p1-img2-304967.jpg",
+        "alt_text": "Sylvan Heritage Relaxed French Linen Shirt - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p1-img3-304968.jpg",
+        "alt_text": "Sylvan Heritage Relaxed French Linen Shirt - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p1-img4-304969.jpg",
+        "alt_text": "Sylvan Heritage Relaxed French Linen Shirt - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 28,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-SHT-001-S"
+      },
+      {
+        "product_id": 28,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-SHT-001-M"
+      },
+      {
+        "product_id": 28,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-SHT-001-L"
+      },
+      {
+        "product_id": 28,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-SHT-001-XL"
+      },
+      {
+        "product_id": 28,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-SHT-001-XXL"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Oxford Button-Down Classic White Shirt",
+    "slug": "oxford-button-down-classic-white-shirt",
+    "description": "The timeless standard. Tailored from durable two-ply combed cotton Oxford cloth with an authentic button-down collar, box pleat with locker loop, and a crisp barrel cuff. Pairs effortlessly with raw denim or tailored chinos.",
+    "price": 1749,
+    "compare_at_price": 2399,
+    "category_id": 4,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-SHT-002",
+    "stock": 90,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "shirt,linen,button-down,blouse,casual,formal,cotton,oxford,button,down,classic,white,shirt,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:12.99956+00:00",
+    "updated_at": "2026-11-11T16:45:12.99956+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-shirts-p2-img1-307906.jpg",
+        "alt_text": "Oxford Button-Down Classic White Shirt - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-shirts-p2-img2-307906.jpg",
+        "alt_text": "Oxford Button-Down Classic White Shirt - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p2-img3-307907.jpg",
+        "alt_text": "Oxford Button-Down Classic White Shirt - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p2-img4-307908.jpg",
+        "alt_text": "Oxford Button-Down Classic White Shirt - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 29,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-SHT-002-S"
+      },
+      {
+        "product_id": 29,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-SHT-002-M"
+      },
+      {
+        "product_id": 29,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-SHT-002-L"
+      },
+      {
+        "product_id": 29,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-SHT-002-XL"
+      },
+      {
+        "product_id": 29,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-SHT-002-XXL"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Catalan Oversized Bohemian Cotton Blouse",
+    "slug": "catalan-oversized-bohemian-cotton-blouse",
+    "description": "Designed with balloon sleeves, delicate shoulder pintucks, and an airy relaxed silhouette. Woven from breathable cotton gauze that feels weightless against the skin. Style half-tucked into high-rise jeans.",
+    "price": 1999,
+    "compare_at_price": 2699,
+    "category_id": 4,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-SHT-003",
+    "stock": 100,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "shirt,linen,button-down,blouse,casual,formal,cotton,catalan,oversized,bohemian,cotton,blouse,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:16.594178+00:00",
+    "updated_at": "2026-11-11T16:45:16.594178+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-shirts-p3-img1-312994.jpg",
+        "alt_text": "Catalan Oversized Bohemian Cotton Blouse - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-shirts-p3-img2-312994.jpg",
+        "alt_text": "Catalan Oversized Bohemian Cotton Blouse - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p3-img3-312995.jpg",
+        "alt_text": "Catalan Oversized Bohemian Cotton Blouse - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p3-img4-312995.jpg",
+        "alt_text": "Catalan Oversized Bohemian Cotton Blouse - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 30,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-SHT-003-S"
+      },
+      {
+        "product_id": 30,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-SHT-003-M"
+      },
+      {
+        "product_id": 30,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-SHT-003-L"
+      },
+      {
+        "product_id": 30,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-SHT-003-XL"
+      },
+      {
+        "product_id": 30,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-SHT-003-XXL"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Vintage Madras Plaid Flannel Shirt",
+    "slug": "vintage-madras-plaid-flannel-shirt",
+    "description": "Brushed on both sides for supreme warmth and velvet-like softness. Features double chest patch pockets with button flaps, durable horn buttons, and reinforced side gussets. Ideal autumn and winter layering essential.",
+    "price": 2249,
+    "compare_at_price": 2999,
+    "category_id": 4,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-SHT-004",
+    "stock": 110,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "shirt,linen,button-down,blouse,casual,formal,cotton,vintage,madras,plaid,flannel,shirt,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:20.441993+00:00",
+    "updated_at": "2026-11-11T16:45:20.441993+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-shirts-p4-img1-315754.jpg",
+        "alt_text": "Vintage Madras Plaid Flannel Shirt - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-shirts-p4-img2-315755.jpg",
+        "alt_text": "Vintage Madras Plaid Flannel Shirt - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p4-img3-315756.jpg",
+        "alt_text": "Vintage Madras Plaid Flannel Shirt - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p4-img4-315756.jpg",
+        "alt_text": "Vintage Madras Plaid Flannel Shirt - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 31,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-SHT-004-S"
+      },
+      {
+        "product_id": 31,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-SHT-004-M"
+      },
+      {
+        "product_id": 31,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-SHT-004-L"
+      },
+      {
+        "product_id": 31,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-SHT-004-XL"
+      },
+      {
+        "product_id": 31,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-SHT-004-XXL"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Amalfi Resort Cuban Collar Printed Shirt",
+    "slug": "amalfi-resort-cuban-collar-printed-shirt",
+    "description": "Vacation-ready printed shirt with an open retro camp collar and straight boxy hem. Cut from silky breathable Tencel lyocell with fluid drape and vibrant Mediterranean motifs. Hand wash cold.",
+    "price": 2499,
+    "compare_at_price": 3399,
+    "category_id": 4,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-SHT-005",
+    "stock": 120,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "shirt,linen,button-down,blouse,casual,formal,cotton,amalfi,resort,cuban,collar,printed,shirt,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:23.556552+00:00",
+    "updated_at": "2026-11-11T16:45:23.556552+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-shirts-p5-img1-319781.jpg",
+        "alt_text": "Amalfi Resort Cuban Collar Printed Shirt - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-shirts-p5-img2-319781.jpg",
+        "alt_text": "Amalfi Resort Cuban Collar Printed Shirt - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p5-img3-319781.jpg",
+        "alt_text": "Amalfi Resort Cuban Collar Printed Shirt - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p5-img4-319781.jpg",
+        "alt_text": "Amalfi Resort Cuban Collar Printed Shirt - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 32,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-SHT-005-S"
+      },
+      {
+        "product_id": 32,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-SHT-005-M"
+      },
+      {
+        "product_id": 32,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-SHT-005-L"
+      },
+      {
+        "product_id": 32,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-SHT-005-XL"
+      },
+      {
+        "product_id": 32,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-SHT-005-XXL"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Corduroy Overshirt in Burnt Caramel",
+    "slug": "corduroy-overshirt-in-burnt-caramel",
+    "description": "Heavyweight 8-wale cotton corduroy with deep ribbed texture. Functions as both a rugged casual shirt and a light autumn jacket. Outfitted with metal snaps and dual chest utility pockets.",
+    "price": 2749,
+    "compare_at_price": 3699,
+    "category_id": 4,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-SHT-006",
+    "stock": 130,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "shirt,linen,button-down,blouse,casual,formal,cotton,corduroy,overshirt,in,burnt,caramel,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:25.352363+00:00",
+    "updated_at": "2026-11-11T16:45:25.352363+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-shirts-p6-img1-322250.jpg",
+        "alt_text": "Corduroy Overshirt in Burnt Caramel - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-shirts-p6-img2-322251.jpg",
+        "alt_text": "Corduroy Overshirt in Burnt Caramel - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p6-img3-322251.jpg",
+        "alt_text": "Corduroy Overshirt in Burnt Caramel - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p6-img4-322251.jpg",
+        "alt_text": "Corduroy Overshirt in Burnt Caramel - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 33,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-SHT-006-S"
+      },
+      {
+        "product_id": 33,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-SHT-006-M"
+      },
+      {
+        "product_id": 33,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-SHT-006-L"
+      },
+      {
+        "product_id": 33,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-SHT-006-XL"
+      },
+      {
+        "product_id": 33,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-SHT-006-XXL"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Midnight Silk Satin Evening Blouse",
+    "slug": "midnight-silk-satin-evening-blouse",
+    "description": "Liquid-smooth silk blend satin blouse with a subtle cowl neck and elongated button cuffs. An elevated statement piece for candlelit dinners and evening events.",
+    "price": 2999,
+    "compare_at_price": 3999,
+    "category_id": 4,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-SHT-007",
+    "stock": 140,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "shirt,linen,button-down,blouse,casual,formal,cotton,midnight,silk,satin,evening,blouse,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:26.981526+00:00",
+    "updated_at": "2026-11-11T16:45:26.981526+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-shirts-p7-img1-324228.jpg",
+        "alt_text": "Midnight Silk Satin Evening Blouse - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-shirts-p7-img2-324229.jpg",
+        "alt_text": "Midnight Silk Satin Evening Blouse - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p7-img3-324229.jpg",
+        "alt_text": "Midnight Silk Satin Evening Blouse - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-shirts-p7-img4-324229.jpg",
+        "alt_text": "Midnight Silk Satin Evening Blouse - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 34,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-SHT-007-S"
+      },
+      {
+        "product_id": 34,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-SHT-007-M"
+      },
+      {
+        "product_id": 34,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-SHT-007-L"
+      },
+      {
+        "product_id": 34,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-SHT-007-XL"
+      },
+      {
+        "product_id": 34,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-SHT-007-XXL"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "90s Raw Indigo Selvedge Straight Leg Jeans",
+    "slug": "90s-raw-indigo-selvedge-straight-leg-jeans",
+    "description": "Authentic 13.5 oz ring-spun cotton denim crafted on traditional shuttle looms. Features a crisp raw indigo shade, authentic red selvedge ID line on the outseam, copper rivets, and a classic mid-rise straight leg silhouette. Built to mold uniquely to your body.",
+    "price": 2199,
+    "compare_at_price": 2999,
+    "category_id": 5,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-JNS-001",
+    "stock": 80,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "jeans,denim,vintage,straight-leg,skinny,baggy,selvedge,90s,raw,indigo,selvedge,straight,leg,jeans,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:34.077574+00:00",
+    "updated_at": "2026-11-11T16:45:34.077574+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-jeans-p1-img1-330075.jpg",
+        "alt_text": "90s Raw Indigo Selvedge Straight Leg Jeans - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-jeans-p1-img2-330079.jpg",
+        "alt_text": "90s Raw Indigo Selvedge Straight Leg Jeans - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p1-img3-330084.jpg",
+        "alt_text": "90s Raw Indigo Selvedge Straight Leg Jeans - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p1-img4-330089.jpg",
+        "alt_text": "90s Raw Indigo Selvedge Straight Leg Jeans - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 35,
+        "name": "28",
+        "type": "size",
+        "value": "28",
+        "stock": 20,
+        "sku": "KAVY-JNS-001-28"
+      },
+      {
+        "product_id": 35,
+        "name": "30",
+        "type": "size",
+        "value": "30",
+        "stock": 20,
+        "sku": "KAVY-JNS-001-30"
+      },
+      {
+        "product_id": 35,
+        "name": "32",
+        "type": "size",
+        "value": "32",
+        "stock": 20,
+        "sku": "KAVY-JNS-001-32"
+      },
+      {
+        "product_id": 35,
+        "name": "34",
+        "type": "size",
+        "value": "34",
+        "stock": 20,
+        "sku": "KAVY-JNS-001-34"
+      },
+      {
+        "product_id": 35,
+        "name": "36",
+        "type": "size",
+        "value": "36",
+        "stock": 20,
+        "sku": "KAVY-JNS-001-36"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Vintage Washed Baggy Skate Denim",
+    "slug": "vintage-washed-baggy-skate-denim",
+    "description": "Iconic wide-leg skate silhouette featuring heavy stone-washing, whiskering along the lap, and subtle edge abrasion. 100% heavyweight cotton denim that pools cleanly over retro sneakers.",
+    "price": 2449,
+    "compare_at_price": 3299,
+    "category_id": 5,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-JNS-002",
+    "stock": 90,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "jeans,denim,vintage,straight-leg,skinny,baggy,selvedge,vintage,washed,baggy,skate,denim,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:37.229037+00:00",
+    "updated_at": "2026-11-11T16:45:37.229037+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-jeans-p2-img1-333558.jpg",
+        "alt_text": "Vintage Washed Baggy Skate Denim - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-jeans-p2-img2-333559.jpg",
+        "alt_text": "Vintage Washed Baggy Skate Denim - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p2-img3-333559.jpg",
+        "alt_text": "Vintage Washed Baggy Skate Denim - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p2-img4-333560.jpg",
+        "alt_text": "Vintage Washed Baggy Skate Denim - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 36,
+        "name": "28",
+        "type": "size",
+        "value": "28",
+        "stock": 20,
+        "sku": "KAVY-JNS-002-28"
+      },
+      {
+        "product_id": 36,
+        "name": "30",
+        "type": "size",
+        "value": "30",
+        "stock": 20,
+        "sku": "KAVY-JNS-002-30"
+      },
+      {
+        "product_id": 36,
+        "name": "32",
+        "type": "size",
+        "value": "32",
+        "stock": 20,
+        "sku": "KAVY-JNS-002-32"
+      },
+      {
+        "product_id": 36,
+        "name": "34",
+        "type": "size",
+        "value": "34",
+        "stock": 20,
+        "sku": "KAVY-JNS-002-34"
+      },
+      {
+        "product_id": 36,
+        "name": "36",
+        "type": "size",
+        "value": "36",
+        "stock": 20,
+        "sku": "KAVY-JNS-002-36"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Contour High-Rise Ankle Skinny Jeans",
+    "slug": "contour-high-rise-ankle-skinny-jeans",
+    "description": "Engineered with 4-way stretch denim that sculpts without pinching or bagging out. Features a high-rise contoured waistband designed to eliminate back gap, matte black hardware, and an ankle-grazing clean hem.",
+    "price": 2699,
+    "compare_at_price": 3599,
+    "category_id": 5,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-JNS-003",
+    "stock": 100,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "jeans,denim,vintage,straight-leg,skinny,baggy,selvedge,contour,high,rise,ankle,skinny,jeans,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:39.831885+00:00",
+    "updated_at": "2026-11-11T16:45:39.831885+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-jeans-p3-img1-336663.jpg",
+        "alt_text": "Contour High-Rise Ankle Skinny Jeans - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-jeans-p3-img2-336663.jpg",
+        "alt_text": "Contour High-Rise Ankle Skinny Jeans - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p3-img3-336664.jpg",
+        "alt_text": "Contour High-Rise Ankle Skinny Jeans - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p3-img4-336664.jpg",
+        "alt_text": "Contour High-Rise Ankle Skinny Jeans - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 37,
+        "name": "28",
+        "type": "size",
+        "value": "28",
+        "stock": 20,
+        "sku": "KAVY-JNS-003-28"
+      },
+      {
+        "product_id": 37,
+        "name": "30",
+        "type": "size",
+        "value": "30",
+        "stock": 20,
+        "sku": "KAVY-JNS-003-30"
+      },
+      {
+        "product_id": 37,
+        "name": "32",
+        "type": "size",
+        "value": "32",
+        "stock": 20,
+        "sku": "KAVY-JNS-003-32"
+      },
+      {
+        "product_id": 37,
+        "name": "34",
+        "type": "size",
+        "value": "34",
+        "stock": 20,
+        "sku": "KAVY-JNS-003-34"
+      },
+      {
+        "product_id": 37,
+        "name": "36",
+        "type": "size",
+        "value": "36",
+        "stock": 20,
+        "sku": "KAVY-JNS-003-36"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Retro Distressed Carpenter Denim with Hammer Loop",
+    "slug": "retro-distressed-carpenter-denim-with-hammer-loop",
+    "description": "Utilitarian utility jeans built from durable broken-twill denim. Equipped with slant front pockets, oversized back patch pockets, tool side pockets, and an authentic side hammer loop. Finished with heavy bar-tack reinforcement.",
+    "price": 2949,
+    "compare_at_price": 3999,
+    "category_id": 5,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-JNS-004",
+    "stock": 110,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "jeans,denim,vintage,straight-leg,skinny,baggy,selvedge,retro,distressed,carpenter,denim,with,hammer,loop,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:42.956997+00:00",
+    "updated_at": "2026-11-11T16:45:42.956997+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-jeans-p4-img1-338733.jpg",
+        "alt_text": "Retro Distressed Carpenter Denim with Hammer Loop - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-jeans-p4-img2-338733.jpg",
+        "alt_text": "Retro Distressed Carpenter Denim with Hammer Loop - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p4-img3-338734.jpg",
+        "alt_text": "Retro Distressed Carpenter Denim with Hammer Loop - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p4-img4-338735.jpg",
+        "alt_text": "Retro Distressed Carpenter Denim with Hammer Loop - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 38,
+        "name": "28",
+        "type": "size",
+        "value": "28",
+        "stock": 20,
+        "sku": "KAVY-JNS-004-28"
+      },
+      {
+        "product_id": 38,
+        "name": "30",
+        "type": "size",
+        "value": "30",
+        "stock": 20,
+        "sku": "KAVY-JNS-004-30"
+      },
+      {
+        "product_id": 38,
+        "name": "32",
+        "type": "size",
+        "value": "32",
+        "stock": 20,
+        "sku": "KAVY-JNS-004-32"
+      },
+      {
+        "product_id": 38,
+        "name": "34",
+        "type": "size",
+        "value": "34",
+        "stock": 20,
+        "sku": "KAVY-JNS-004-34"
+      },
+      {
+        "product_id": 38,
+        "name": "36",
+        "type": "size",
+        "value": "36",
+        "stock": 20,
+        "sku": "KAVY-JNS-004-36"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Bleached Light Wash 90s Dad Jeans",
+    "slug": "bleached-light-wash-90s-dad-jeans",
+    "description": "Effortless vintage vibes with a sun-bleached pale blue wash. High-waisted with a relaxed fit through the hip and thigh, tapering subtly down to the ankle. 100% organic cotton.",
+    "price": 3199,
+    "compare_at_price": 4299,
+    "category_id": 5,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-JNS-005",
+    "stock": 120,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "jeans,denim,vintage,straight-leg,skinny,baggy,selvedge,bleached,light,wash,90s,dad,jeans,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:50.984724+00:00",
+    "updated_at": "2026-11-11T16:45:50.984724+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-jeans-p5-img1-343235.jpg",
+        "alt_text": "Bleached Light Wash 90s Dad Jeans - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-jeans-p5-img2-343236.jpg",
+        "alt_text": "Bleached Light Wash 90s Dad Jeans - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p5-img3-343236.jpg",
+        "alt_text": "Bleached Light Wash 90s Dad Jeans - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p5-img4-343237.jpg",
+        "alt_text": "Bleached Light Wash 90s Dad Jeans - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 39,
+        "name": "28",
+        "type": "size",
+        "value": "28",
+        "stock": 20,
+        "sku": "KAVY-JNS-005-28"
+      },
+      {
+        "product_id": 39,
+        "name": "30",
+        "type": "size",
+        "value": "30",
+        "stock": 20,
+        "sku": "KAVY-JNS-005-30"
+      },
+      {
+        "product_id": 39,
+        "name": "32",
+        "type": "size",
+        "value": "32",
+        "stock": 20,
+        "sku": "KAVY-JNS-005-32"
+      },
+      {
+        "product_id": 39,
+        "name": "34",
+        "type": "size",
+        "value": "34",
+        "stock": 20,
+        "sku": "KAVY-JNS-005-34"
+      },
+      {
+        "product_id": 39,
+        "name": "36",
+        "type": "size",
+        "value": "36",
+        "stock": 20,
+        "sku": "KAVY-JNS-005-36"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Charcoal Shadow Washed Slim-Fit Jeans",
+    "slug": "charcoal-shadow-washed-slim-fit-jeans",
+    "description": "Deep washed charcoal tone with gentle knee fades. Features 2% elastane woven into dense ringspun cotton for flexible all-day comfort. Reinforced pocket bags and zip fly with antique gunmetal button.",
+    "price": 3449,
+    "compare_at_price": 4699,
+    "category_id": 5,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-JNS-006",
+    "stock": 130,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "jeans,denim,vintage,straight-leg,skinny,baggy,selvedge,charcoal,shadow,washed,slim,fit,jeans,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:53.287916+00:00",
+    "updated_at": "2026-11-11T16:45:53.287916+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-jeans-p6-img1-350048.jpg",
+        "alt_text": "Charcoal Shadow Washed Slim-Fit Jeans - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-jeans-p6-img2-350049.jpg",
+        "alt_text": "Charcoal Shadow Washed Slim-Fit Jeans - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p6-img3-350053.jpg",
+        "alt_text": "Charcoal Shadow Washed Slim-Fit Jeans - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p6-img4-350057.jpg",
+        "alt_text": "Charcoal Shadow Washed Slim-Fit Jeans - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 40,
+        "name": "28",
+        "type": "size",
+        "value": "28",
+        "stock": 20,
+        "sku": "KAVY-JNS-006-28"
+      },
+      {
+        "product_id": 40,
+        "name": "30",
+        "type": "size",
+        "value": "30",
+        "stock": 20,
+        "sku": "KAVY-JNS-006-30"
+      },
+      {
+        "product_id": 40,
+        "name": "32",
+        "type": "size",
+        "value": "32",
+        "stock": 20,
+        "sku": "KAVY-JNS-006-32"
+      },
+      {
+        "product_id": 40,
+        "name": "34",
+        "type": "size",
+        "value": "34",
+        "stock": 20,
+        "sku": "KAVY-JNS-006-34"
+      },
+      {
+        "product_id": 40,
+        "name": "36",
+        "type": "size",
+        "value": "36",
+        "stock": 20,
+        "sku": "KAVY-JNS-006-36"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Seventies Flare Wide Bell-Bottom Jeans",
+    "slug": "seventies-flare-wide-bell-bottom-jeans",
+    "description": "Dramatic 70s revival featuring a fitted thigh that breaks below the knee into a wide bell flare. High-rise fit with front patch pockets and contrast tobacco stitching.",
+    "price": 3699,
+    "compare_at_price": 4999,
+    "category_id": 5,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-JNS-007",
+    "stock": 140,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "jeans,denim,vintage,straight-leg,skinny,baggy,selvedge,seventies,flare,wide,bell,bottom,jeans,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:45:57.549257+00:00",
+    "updated_at": "2026-11-11T16:45:57.549257+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-jeans-p7-img1-352346.jpg",
+        "alt_text": "Seventies Flare Wide Bell-Bottom Jeans - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-jeans-p7-img2-352347.jpg",
+        "alt_text": "Seventies Flare Wide Bell-Bottom Jeans - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p7-img3-352348.jpg",
+        "alt_text": "Seventies Flare Wide Bell-Bottom Jeans - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-jeans-p7-img4-352348.jpg",
+        "alt_text": "Seventies Flare Wide Bell-Bottom Jeans - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 41,
+        "name": "28",
+        "type": "size",
+        "value": "28",
+        "stock": 20,
+        "sku": "KAVY-JNS-007-28"
+      },
+      {
+        "product_id": 41,
+        "name": "30",
+        "type": "size",
+        "value": "30",
+        "stock": 20,
+        "sku": "KAVY-JNS-007-30"
+      },
+      {
+        "product_id": 41,
+        "name": "32",
+        "type": "size",
+        "value": "32",
+        "stock": 20,
+        "sku": "KAVY-JNS-007-32"
+      },
+      {
+        "product_id": 41,
+        "name": "34",
+        "type": "size",
+        "value": "34",
+        "stock": 20,
+        "sku": "KAVY-JNS-007-34"
+      },
+      {
+        "product_id": 41,
+        "name": "36",
+        "type": "size",
+        "value": "36",
+        "stock": 20,
+        "sku": "KAVY-JNS-007-36"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Apex Heavyweight Fleece Zip Hoodie",
+    "slug": "apex-heavyweight-fleece-zip-hoodie",
+    "description": "Constructed from 400 GSM ultra-heavyweight brushed French terry cotton. Double-layered thermal hood, heavy-duty YKK two-way metal zipper, and ribbed side panels for maximum movement and structural warmth.",
+    "price": 1699,
+    "compare_at_price": 2299,
+    "category_id": 1,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-MEN-001",
+    "stock": 80,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "men,streetwear,hoodie,jogger,cargo,menswear,casual,apex,heavyweight,fleece,zip,hoodie,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:04.899521+00:00",
+    "updated_at": "2026-11-11T16:46:04.899521+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-men-p1-img1-361399.jpg",
+        "alt_text": "Apex Heavyweight Fleece Zip Hoodie - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-men-p1-img2-361402.jpg",
+        "alt_text": "Apex Heavyweight Fleece Zip Hoodie - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p1-img3-361406.jpg",
+        "alt_text": "Apex Heavyweight Fleece Zip Hoodie - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p1-img4-361410.jpg",
+        "alt_text": "Apex Heavyweight Fleece Zip Hoodie - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 42,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-MEN-001-S"
+      },
+      {
+        "product_id": 42,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-MEN-001-M"
+      },
+      {
+        "product_id": 42,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-MEN-001-L"
+      },
+      {
+        "product_id": 42,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-MEN-001-XL"
+      },
+      {
+        "product_id": 42,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-MEN-001-XXL"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Tactical Utility Relaxed Cargo Pants",
+    "slug": "tactical-utility-relaxed-cargo-pants",
+    "description": "Engineered from durable ripstop cotton with water-repellent coating. Features 6 functional cargo compartments with snap closures, articulated knees, and adjustable drawcord leg openings.",
+    "price": 1949,
+    "compare_at_price": 2599,
+    "category_id": 1,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-MEN-002",
+    "stock": 90,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "men,streetwear,hoodie,jogger,cargo,menswear,casual,tactical,utility,relaxed,cargo,pants,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:07.210077+00:00",
+    "updated_at": "2026-11-11T16:46:07.210077+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-men-p2-img1-363938.jpg",
+        "alt_text": "Tactical Utility Relaxed Cargo Pants - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-men-p2-img2-363938.jpg",
+        "alt_text": "Tactical Utility Relaxed Cargo Pants - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p2-img3-363939.jpg",
+        "alt_text": "Tactical Utility Relaxed Cargo Pants - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p2-img4-363939.jpg",
+        "alt_text": "Tactical Utility Relaxed Cargo Pants - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 43,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-MEN-002-S"
+      },
+      {
+        "product_id": 43,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-MEN-002-M"
+      },
+      {
+        "product_id": 43,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-MEN-002-L"
+      },
+      {
+        "product_id": 43,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-MEN-002-XL"
+      },
+      {
+        "product_id": 43,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-MEN-002-XXL"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Urban Minimalist Crewneck Sweatshirt",
+    "slug": "urban-minimalist-crewneck-sweatshirt",
+    "description": "Clean aesthetics with raglan sleeves, flatlock stitching, and ribbed collar and hem. Garment-dyed for rich color saturation that will never shrink in the wash. 100% organic cotton.",
+    "price": 2199,
+    "compare_at_price": 2999,
+    "category_id": 1,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-MEN-003",
+    "stock": 100,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "men,streetwear,hoodie,jogger,cargo,menswear,casual,urban,minimalist,crewneck,sweatshirt,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:11.565602+00:00",
+    "updated_at": "2026-11-11T16:46:11.565602+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-men-p3-img1-367047.jpg",
+        "alt_text": "Urban Minimalist Crewneck Sweatshirt - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-men-p3-img2-367047.jpg",
+        "alt_text": "Urban Minimalist Crewneck Sweatshirt - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p3-img3-367048.jpg",
+        "alt_text": "Urban Minimalist Crewneck Sweatshirt - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p3-img4-367048.jpg",
+        "alt_text": "Urban Minimalist Crewneck Sweatshirt - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 44,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-MEN-003-S"
+      },
+      {
+        "product_id": 44,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-MEN-003-M"
+      },
+      {
+        "product_id": 44,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-MEN-003-L"
+      },
+      {
+        "product_id": 44,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-MEN-003-XL"
+      },
+      {
+        "product_id": 44,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-MEN-003-XXL"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Chino Tapered Stretch Everyday Trouser",
+    "slug": "chino-tapered-stretch-everyday-trouser",
+    "description": "Versatile stretch twill trousers tailored with a clean front, slant pockets, welt back pockets, and a modern tapered hem. Ideal for both office meetings and casual evening drinks.",
+    "price": 2449,
+    "compare_at_price": 3299,
+    "category_id": 1,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-MEN-004",
+    "stock": 110,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "men,streetwear,hoodie,jogger,cargo,menswear,casual,chino,tapered,stretch,everyday,trouser,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:14.88534+00:00",
+    "updated_at": "2026-11-11T16:46:14.88534+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-men-p4-img1-370398.jpg",
+        "alt_text": "Chino Tapered Stretch Everyday Trouser - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-men-p4-img2-370399.jpg",
+        "alt_text": "Chino Tapered Stretch Everyday Trouser - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p4-img3-370399.jpg",
+        "alt_text": "Chino Tapered Stretch Everyday Trouser - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p4-img4-370400.jpg",
+        "alt_text": "Chino Tapered Stretch Everyday Trouser - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 45,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-MEN-004-S"
+      },
+      {
+        "product_id": 45,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-MEN-004-M"
+      },
+      {
+        "product_id": 45,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-MEN-004-L"
+      },
+      {
+        "product_id": 45,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-MEN-004-XL"
+      },
+      {
+        "product_id": 45,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-MEN-004-XXL"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Athletic Tech-Knit Performance Joggers",
+    "slug": "athletic-tech-knit-performance-joggers",
+    "description": "Streamlined athletic silhouette cut from lightweight 4-way stretch knit. Moisture-wicking, breathable, with zippered hip pockets and an elasticated waistband with silicone-dipped drawstrings.",
+    "price": 2699,
+    "compare_at_price": 3599,
+    "category_id": 1,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-MEN-005",
+    "stock": 120,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "men,streetwear,hoodie,jogger,cargo,menswear,casual,athletic,tech,knit,performance,joggers,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:18.251747+00:00",
+    "updated_at": "2026-11-11T16:46:18.251747+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-men-p5-img1-373696.jpg",
+        "alt_text": "Athletic Tech-Knit Performance Joggers - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-men-p5-img2-373696.jpg",
+        "alt_text": "Athletic Tech-Knit Performance Joggers - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p5-img3-373697.jpg",
+        "alt_text": "Athletic Tech-Knit Performance Joggers - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 46,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-MEN-005-S"
+      },
+      {
+        "product_id": 46,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-MEN-005-M"
+      },
+      {
+        "product_id": 46,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-MEN-005-L"
+      },
+      {
+        "product_id": 46,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-MEN-005-XL"
+      },
+      {
+        "product_id": 46,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-MEN-005-XXL"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Vintage Rugby Stripe Polo Pullover",
+    "slug": "vintage-rugby-stripe-polo-pullover",
+    "description": "Heavyweight cotton jersey rugby shirt featuring bold horizontal color-blocking, a woven white twill collar, concealed rubber button placket, and ribbed cuffs. Retro collegiate style.",
+    "price": 2949,
+    "compare_at_price": 3999,
+    "category_id": 1,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-MEN-006",
+    "stock": 130,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "men,streetwear,hoodie,jogger,cargo,menswear,casual,vintage,rugby,stripe,polo,pullover,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:20.275754+00:00",
+    "updated_at": "2026-11-11T16:46:20.275754+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-men-p6-img1-376877.jpg",
+        "alt_text": "Vintage Rugby Stripe Polo Pullover - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-men-p6-img2-376878.jpg",
+        "alt_text": "Vintage Rugby Stripe Polo Pullover - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p6-img3-376878.jpg",
+        "alt_text": "Vintage Rugby Stripe Polo Pullover - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 47,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-MEN-006-S"
+      },
+      {
+        "product_id": 47,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-MEN-006-M"
+      },
+      {
+        "product_id": 47,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-MEN-006-L"
+      },
+      {
+        "product_id": 47,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-MEN-006-XL"
+      },
+      {
+        "product_id": 47,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-MEN-006-XXL"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Summer Seaside Linen Relaxed Shorts",
+    "slug": "summer-seaside-linen-relaxed-shorts",
+    "description": "Airy linen-cotton blend shorts with an elastic drawcord waistband, deep side pockets, and a 6-inch inseam. The ultimate warm-weather weekend essential.",
+    "price": 3199,
+    "compare_at_price": 4299,
+    "category_id": 1,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-MEN-007",
+    "stock": 140,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "men,streetwear,hoodie,jogger,cargo,menswear,casual,summer,seaside,linen,relaxed,shorts,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:22.402234+00:00",
+    "updated_at": "2026-11-11T16:46:22.402234+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-men-p7-img1-379370.jpg",
+        "alt_text": "Summer Seaside Linen Relaxed Shorts - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-men-p7-img2-379370.jpg",
+        "alt_text": "Summer Seaside Linen Relaxed Shorts - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-men-p7-img3-379371.jpg",
+        "alt_text": "Summer Seaside Linen Relaxed Shorts - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 48,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-MEN-007-S"
+      },
+      {
+        "product_id": 48,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-MEN-007-M"
+      },
+      {
+        "product_id": 48,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-MEN-007-L"
+      },
+      {
+        "product_id": 48,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-MEN-007-XL"
+      },
+      {
+        "product_id": 48,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-MEN-007-XXL"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Aura Cloud-Soft Ribbed Cardigan",
+    "slug": "aura-cloud-soft-ribbed-cardigan",
+    "description": "Featherlight and irresistibly soft. Spun from a luxurious blend of alpaca, merino wool, and recycled nylon. Designed with tortoiseshell buttons, a deep V-neckline, and relaxed dropped shoulders. Perfect for transitional seasons.",
+    "price": 1599,
+    "compare_at_price": 2199,
+    "category_id": 2,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-WMN-001",
+    "stock": 80,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "women,chic,blouse,knitwear,casual,minimalist,skirt,aura,cloud,soft,ribbed,cardigan,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:29.442534+00:00",
+    "updated_at": "2026-11-11T16:46:29.442534+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-women-p1-img1-384040.jpg",
+        "alt_text": "Aura Cloud-Soft Ribbed Cardigan - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-women-p1-img2-384040.jpg",
+        "alt_text": "Aura Cloud-Soft Ribbed Cardigan - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p1-img3-384041.jpg",
+        "alt_text": "Aura Cloud-Soft Ribbed Cardigan - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p1-img4-384041.jpg",
+        "alt_text": "Aura Cloud-Soft Ribbed Cardigan - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 49,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-WMN-001-S"
+      },
+      {
+        "product_id": 49,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-WMN-001-M"
+      },
+      {
+        "product_id": 49,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-WMN-001-L"
+      },
+      {
+        "product_id": 49,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-WMN-001-XL"
+      },
+      {
+        "product_id": 49,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-WMN-001-XXL"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Tailored Wide-Leg Pleated Trousers",
+    "slug": "tailored-wide-leg-pleated-trousers",
+    "description": "Modern power dressing made comfortable. Crafted from fluid drape twill with double front pleats, high-rise waistband, and clean slash pockets. Looks equally stunning paired with sneakers or heels.",
+    "price": 1849,
+    "compare_at_price": 2499,
+    "category_id": 2,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-WMN-002",
+    "stock": 90,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "women,chic,blouse,knitwear,casual,minimalist,skirt,tailored,wide,leg,pleated,trousers,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:32.433855+00:00",
+    "updated_at": "2026-11-11T16:46:32.433855+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-women-p2-img1-388584.jpg",
+        "alt_text": "Tailored Wide-Leg Pleated Trousers - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-women-p2-img2-388584.jpg",
+        "alt_text": "Tailored Wide-Leg Pleated Trousers - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p2-img3-388585.jpg",
+        "alt_text": "Tailored Wide-Leg Pleated Trousers - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p2-img4-388585.jpg",
+        "alt_text": "Tailored Wide-Leg Pleated Trousers - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 50,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-WMN-002-S"
+      },
+      {
+        "product_id": 50,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-WMN-002-M"
+      },
+      {
+        "product_id": 50,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-WMN-002-L"
+      },
+      {
+        "product_id": 50,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-WMN-002-XL"
+      },
+      {
+        "product_id": 50,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-WMN-002-XXL"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Sculpt Luxe Seamless Ribbed Jumpsuit",
+    "slug": "sculpt-luxe-seamless-ribbed-jumpsuit",
+    "description": "All-in-one athletic elegance. Made with four-way stretch compression knit that shapes and supports without restriction. Features moisture-wicking technology and a flattering scoop back.",
+    "price": 2099,
+    "compare_at_price": 2799,
+    "category_id": 2,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-WMN-003",
+    "stock": 100,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "women,chic,blouse,knitwear,casual,minimalist,skirt,sculpt,luxe,seamless,ribbed,jumpsuit,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:35.322491+00:00",
+    "updated_at": "2026-11-11T16:46:35.322491+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-women-p3-img1-391448.jpg",
+        "alt_text": "Sculpt Luxe Seamless Ribbed Jumpsuit - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-women-p3-img2-391449.jpg",
+        "alt_text": "Sculpt Luxe Seamless Ribbed Jumpsuit - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p3-img3-391450.jpg",
+        "alt_text": "Sculpt Luxe Seamless Ribbed Jumpsuit - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p3-img4-391450.jpg",
+        "alt_text": "Sculpt Luxe Seamless Ribbed Jumpsuit - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 51,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-WMN-003-S"
+      },
+      {
+        "product_id": 51,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-WMN-003-M"
+      },
+      {
+        "product_id": 51,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-WMN-003-L"
+      },
+      {
+        "product_id": 51,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-WMN-003-XL"
+      },
+      {
+        "product_id": 51,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-WMN-003-XXL"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Effortless Linen Wrap Skirt in Sand",
+    "slug": "effortless-linen-wrap-skirt-in-sand",
+    "description": "Breezy wrap midi skirt tailored in 100% natural linen. Adjustable waist tie, subtle asymmetric hem, and a flattering A-line silhouette. Pairs beautifully with simple tank tops.",
+    "price": 2349,
+    "compare_at_price": 3199,
+    "category_id": 2,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-WMN-004",
+    "stock": 110,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "women,chic,blouse,knitwear,casual,minimalist,skirt,effortless,linen,wrap,skirt,in,sand,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:37.750828+00:00",
+    "updated_at": "2026-11-11T16:46:37.750828+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-women-p4-img1-394134.jpg",
+        "alt_text": "Effortless Linen Wrap Skirt in Sand - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-women-p4-img2-394135.jpg",
+        "alt_text": "Effortless Linen Wrap Skirt in Sand - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p4-img3-394135.jpg",
+        "alt_text": "Effortless Linen Wrap Skirt in Sand - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p4-img4-394135.jpg",
+        "alt_text": "Effortless Linen Wrap Skirt in Sand - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 52,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-WMN-004-S"
+      },
+      {
+        "product_id": 52,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-WMN-004-M"
+      },
+      {
+        "product_id": 52,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-WMN-004-L"
+      },
+      {
+        "product_id": 52,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-WMN-004-XL"
+      },
+      {
+        "product_id": 52,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-WMN-004-XXL"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Cashmere-Blend Crewneck Sweater",
+    "slug": "cashmere-blend-crewneck-sweater",
+    "description": "An elevated capsule wardrobe essential. Blended with grade-A Mongolian cashmere and fine merino for cloud-like softness, pill resistance, and enduring warmth.",
+    "price": 2599,
+    "compare_at_price": 3499,
+    "category_id": 2,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-WMN-005",
+    "stock": 120,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "women,chic,blouse,knitwear,casual,minimalist,skirt,cashmere,blend,crewneck,sweater,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:40.254158+00:00",
+    "updated_at": "2026-11-11T16:46:40.254158+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-women-p5-img1-396761.jpg",
+        "alt_text": "Cashmere-Blend Crewneck Sweater - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-women-p5-img2-396762.jpg",
+        "alt_text": "Cashmere-Blend Crewneck Sweater - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p5-img3-396762.jpg",
+        "alt_text": "Cashmere-Blend Crewneck Sweater - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p5-img4-396762.jpg",
+        "alt_text": "Cashmere-Blend Crewneck Sweater - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 53,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-WMN-005-S"
+      },
+      {
+        "product_id": 53,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-WMN-005-M"
+      },
+      {
+        "product_id": 53,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-WMN-005-L"
+      },
+      {
+        "product_id": 53,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-WMN-005-XL"
+      },
+      {
+        "product_id": 53,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-WMN-005-XXL"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Cropped Utility Poplin Short Sleeve Top",
+    "slug": "cropped-utility-poplin-short-sleeve-top",
+    "description": "Boxy cropped silhouette with safari flap chest pockets, notched lapels, and crisp cuffed sleeves. Made from breathable organic cotton poplin in a warm sage hue.",
+    "price": 2849,
+    "compare_at_price": 3799,
+    "category_id": 2,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-WMN-006",
+    "stock": 130,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "women,chic,blouse,knitwear,casual,minimalist,skirt,cropped,utility,poplin,short,sleeve,top,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:42.80962+00:00",
+    "updated_at": "2026-11-11T16:46:42.80962+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-women-p6-img1-399284.jpg",
+        "alt_text": "Cropped Utility Poplin Short Sleeve Top - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-women-p6-img2-399285.jpg",
+        "alt_text": "Cropped Utility Poplin Short Sleeve Top - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p6-img3-399286.jpg",
+        "alt_text": "Cropped Utility Poplin Short Sleeve Top - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p6-img4-399287.jpg",
+        "alt_text": "Cropped Utility Poplin Short Sleeve Top - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 54,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-WMN-006-S"
+      },
+      {
+        "product_id": 54,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-WMN-006-M"
+      },
+      {
+        "product_id": 54,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-WMN-006-L"
+      },
+      {
+        "product_id": 54,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-WMN-006-XL"
+      },
+      {
+        "product_id": 54,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-WMN-006-XXL"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Boho Embroidered Cotton Peasant Top",
+    "slug": "boho-embroidered-cotton-peasant-top",
+    "description": "Romantic bohemian flair featuring colorful needlepoint floral embroidery across the chest and billowy peasant sleeves with elastic cuffs. Finished with tassel ties at the keyhole neck.",
+    "price": 3099,
+    "compare_at_price": 4199,
+    "category_id": 2,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-WMN-007",
+    "stock": 140,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "women,chic,blouse,knitwear,casual,minimalist,skirt,boho,embroidered,cotton,peasant,top,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:45.572672+00:00",
+    "updated_at": "2026-11-11T16:46:45.572672+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-women-p7-img1-401706.jpg",
+        "alt_text": "Boho Embroidered Cotton Peasant Top - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-women-p7-img2-401707.jpg",
+        "alt_text": "Boho Embroidered Cotton Peasant Top - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p7-img3-401707.jpg",
+        "alt_text": "Boho Embroidered Cotton Peasant Top - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-women-p7-img4-401707.jpg",
+        "alt_text": "Boho Embroidered Cotton Peasant Top - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 55,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-WMN-007-S"
+      },
+      {
+        "product_id": 55,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-WMN-007-M"
+      },
+      {
+        "product_id": 55,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-WMN-007-L"
+      },
+      {
+        "product_id": 55,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-WMN-007-XL"
+      },
+      {
+        "product_id": 55,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-WMN-007-XXL"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Glacier Peak High-Pile Sherpa Fleece Jacket",
+    "slug": "glacier-peak-high-pile-sherpa-fleece-jacket",
+    "description": "Superior thermal insulation crafted with plush 350 GSM teddy fleece. Contrasted with durable ripstop nylon on the collar and zippered chest pocket. Full front zipper and elasticated windproof binding.",
+    "price": 2999,
+    "compare_at_price": 3999,
+    "category_id": 8,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-OUT-001",
+    "stock": 80,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "outerwear,jacket,bomber,fleece,winter,coat,windbreaker,glacier,peak,high,pile,sherpa,fleece,jacket,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:50.328766+00:00",
+    "updated_at": "2026-11-11T16:46:50.328766+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-outerwear-p1-img1-407009.jpg",
+        "alt_text": "Glacier Peak High-Pile Sherpa Fleece Jacket - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p1-img2-407010.jpg",
+        "alt_text": "Glacier Peak High-Pile Sherpa Fleece Jacket - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p1-img3-407011.jpg",
+        "alt_text": "Glacier Peak High-Pile Sherpa Fleece Jacket - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p1-img4-407011.jpg",
+        "alt_text": "Glacier Peak High-Pile Sherpa Fleece Jacket - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 56,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-OUT-001-S"
+      },
+      {
+        "product_id": 56,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-OUT-001-M"
+      },
+      {
+        "product_id": 56,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-OUT-001-L"
+      },
+      {
+        "product_id": 56,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-OUT-001-XL"
+      },
+      {
+        "product_id": 56,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-OUT-001-XXL"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Midnight Diamond Quilted Bomber Jacket",
+    "slug": "midnight-diamond-quilted-bomber-jacket",
+    "description": "Inspired by military aviator heritage. Features a weather-resistant matte nylon shell with diamond thermal quilting, heavyweight ribbed collar, cuffs, and hem, and sleek utility arm pocket.",
+    "price": 3249,
+    "compare_at_price": 4399,
+    "category_id": 8,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-OUT-002",
+    "stock": 90,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "outerwear,jacket,bomber,fleece,winter,coat,windbreaker,midnight,diamond,quilted,bomber,jacket,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:52.334384+00:00",
+    "updated_at": "2026-11-11T16:46:52.334384+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-outerwear-p2-img1-409273.jpg",
+        "alt_text": "Midnight Diamond Quilted Bomber Jacket - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p2-img2-409273.jpg",
+        "alt_text": "Midnight Diamond Quilted Bomber Jacket - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p2-img3-409274.jpg",
+        "alt_text": "Midnight Diamond Quilted Bomber Jacket - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p2-img4-409274.jpg",
+        "alt_text": "Midnight Diamond Quilted Bomber Jacket - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 57,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-OUT-002-S"
+      },
+      {
+        "product_id": 57,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-OUT-002-M"
+      },
+      {
+        "product_id": 57,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-OUT-002-L"
+      },
+      {
+        "product_id": 57,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-OUT-002-XL"
+      },
+      {
+        "product_id": 57,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-OUT-002-XXL"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Nordic Storm-Proof Hooded Windbreaker",
+    "slug": "nordic-storm-proof-hooded-windbreaker",
+    "description": "Ultralight technical weather protection. 10K waterproof micro-ripstop fabric with sealed seams, adjustable storm hood, waterproof zippers, and reflective logo details.",
+    "price": 3499,
+    "compare_at_price": 4699,
+    "category_id": 8,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-OUT-003",
+    "stock": 100,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "outerwear,jacket,bomber,fleece,winter,coat,windbreaker,nordic,storm,proof,hooded,windbreaker,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:54.22184+00:00",
+    "updated_at": "2026-11-11T16:46:54.22184+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-outerwear-p3-img1-411425.jpg",
+        "alt_text": "Nordic Storm-Proof Hooded Windbreaker - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p3-img2-411426.jpg",
+        "alt_text": "Nordic Storm-Proof Hooded Windbreaker - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p3-img3-411426.jpg",
+        "alt_text": "Nordic Storm-Proof Hooded Windbreaker - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p3-img4-411426.jpg",
+        "alt_text": "Nordic Storm-Proof Hooded Windbreaker - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 58,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-OUT-003-S"
+      },
+      {
+        "product_id": 58,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-OUT-003-M"
+      },
+      {
+        "product_id": 58,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-OUT-003-L"
+      },
+      {
+        "product_id": 58,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-OUT-003-XL"
+      },
+      {
+        "product_id": 58,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-OUT-003-XXL"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Vintage Faded Denim Trucker Jacket",
+    "slug": "vintage-faded-denim-trucker-jacket",
+    "description": "A rugged classic cut from 14 oz heavy cotton denim. Features antique brass shank buttons, dual chest flap pockets, waist tabs, and authentic hand-done distress abrasion on the collar and cuffs.",
+    "price": 3749,
+    "compare_at_price": 5099,
+    "category_id": 8,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-OUT-004",
+    "stock": 110,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "outerwear,jacket,bomber,fleece,winter,coat,windbreaker,vintage,faded,denim,trucker,jacket,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:56.265322+00:00",
+    "updated_at": "2026-11-11T16:46:56.265322+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-outerwear-p4-img1-412876.jpg",
+        "alt_text": "Vintage Faded Denim Trucker Jacket - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p4-img2-412876.jpg",
+        "alt_text": "Vintage Faded Denim Trucker Jacket - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p4-img3-412877.jpg",
+        "alt_text": "Vintage Faded Denim Trucker Jacket - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 59,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-OUT-004-S"
+      },
+      {
+        "product_id": 59,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-OUT-004-M"
+      },
+      {
+        "product_id": 59,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-OUT-004-L"
+      },
+      {
+        "product_id": 59,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-OUT-004-XL"
+      },
+      {
+        "product_id": 59,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-OUT-004-XXL"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Double-Breasted Wool Blend Trench Coat",
+    "slug": "double-breasted-wool-blend-trench-coat",
+    "description": "Timeless outerwear sophistication. Cut from a heavyweight 650 GSM wool-cashmere blend with broad notch lapels, removable tie belt, deep welt pockets, and back vent.",
+    "price": 3999,
+    "compare_at_price": 5399,
+    "category_id": 8,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-OUT-005",
+    "stock": 120,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "outerwear,jacket,bomber,fleece,winter,coat,windbreaker,double,breasted,wool,blend,trench,coat,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:57.899897+00:00",
+    "updated_at": "2026-11-11T16:46:57.899897+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-outerwear-p5-img1-415012.jpg",
+        "alt_text": "Double-Breasted Wool Blend Trench Coat - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p5-img2-415013.jpg",
+        "alt_text": "Double-Breasted Wool Blend Trench Coat - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p5-img3-415014.jpg",
+        "alt_text": "Double-Breasted Wool Blend Trench Coat - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 60,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-OUT-005-S"
+      },
+      {
+        "product_id": 60,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-OUT-005-M"
+      },
+      {
+        "product_id": 60,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-OUT-005-L"
+      },
+      {
+        "product_id": 60,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-OUT-005-XL"
+      },
+      {
+        "product_id": 60,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-OUT-005-XXL"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Cloud Featherweight Down Puffer Vest",
+    "slug": "cloud-featherweight-down-puffer-vest",
+    "description": "Core warmth without bulk. Filled with RDS-certified 700-fill power down enclosed in a featherlight water-repellent ripstop shell. Packs down into its own internal pocket.",
+    "price": 4249,
+    "compare_at_price": 5699,
+    "category_id": 8,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-OUT-006",
+    "stock": 130,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "outerwear,jacket,bomber,fleece,winter,coat,windbreaker,cloud,featherweight,down,puffer,vest,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:46:59.897565+00:00",
+    "updated_at": "2026-11-11T16:46:59.897565+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-outerwear-p6-img1-416581.jpg",
+        "alt_text": "Cloud Featherweight Down Puffer Vest - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p6-img2-416582.jpg",
+        "alt_text": "Cloud Featherweight Down Puffer Vest - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p6-img3-416583.jpg",
+        "alt_text": "Cloud Featherweight Down Puffer Vest - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 61,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-OUT-006-S"
+      },
+      {
+        "product_id": 61,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-OUT-006-M"
+      },
+      {
+        "product_id": 61,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-OUT-006-L"
+      },
+      {
+        "product_id": 61,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-OUT-006-XL"
+      },
+      {
+        "product_id": 61,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-OUT-006-XXL"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Corduroy Collar Barn Jacket in Tobacco",
+    "slug": "corduroy-collar-barn-jacket-in-tobacco",
+    "description": "Country heritage meets urban workwear. Waxed cotton-canvas shell with a soft brown corduroy collar, plaid flannel lining, and deep dual-entry bellows pockets.",
+    "price": 4499,
+    "compare_at_price": 6099,
+    "category_id": 8,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-OUT-007",
+    "stock": 140,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "outerwear,jacket,bomber,fleece,winter,coat,windbreaker,corduroy,collar,barn,jacket,in,tobacco,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:47:02.623047+00:00",
+    "updated_at": "2026-11-11T16:47:02.623047+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-outerwear-p7-img1-418671.jpg",
+        "alt_text": "Corduroy Collar Barn Jacket in Tobacco - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p7-img2-418671.jpg",
+        "alt_text": "Corduroy Collar Barn Jacket in Tobacco - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-outerwear-p7-img3-418672.jpg",
+        "alt_text": "Corduroy Collar Barn Jacket in Tobacco - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 62,
+        "name": "S",
+        "type": "size",
+        "value": "S",
+        "stock": 20,
+        "sku": "KAVY-OUT-007-S"
+      },
+      {
+        "product_id": 62,
+        "name": "M",
+        "type": "size",
+        "value": "M",
+        "stock": 20,
+        "sku": "KAVY-OUT-007-M"
+      },
+      {
+        "product_id": 62,
+        "name": "L",
+        "type": "size",
+        "value": "L",
+        "stock": 20,
+        "sku": "KAVY-OUT-007-L"
+      },
+      {
+        "product_id": 62,
+        "name": "XL",
+        "type": "size",
+        "value": "XL",
+        "stock": 20,
+        "sku": "KAVY-OUT-007-XL"
+      },
+      {
+        "product_id": 62,
+        "name": "XXL",
+        "type": "size",
+        "value": "XXL",
+        "stock": 20,
+        "sku": "KAVY-OUT-007-XXL"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Onitsuka Heritage Retro Court Sneaker",
+    "slug": "onitsuka-heritage-retro-court-sneaker",
+    "description": "Iconic low-profile silhouette crafted from premium full-grain leather with suede toe overlays. Cushioned OrthoLite footbed, contrast racing stripes, and durable herringbone rubber sole for timeless street style.",
+    "price": 899,
+    "compare_at_price": 1199,
+    "category_id": 7,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-ACC-001",
+    "stock": 80,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "accessories,shoes,leather,sneakers,boots,bag,hat,jewelry,onitsuka,heritage,retro,court,sneaker,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:47:10.841933+00:00",
+    "updated_at": "2026-11-11T16:47:10.841933+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-accessories-p1-img1-426301.jpg",
+        "alt_text": "Onitsuka Heritage Retro Court Sneaker - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-accessories-p1-img2-426305.jpg",
+        "alt_text": "Onitsuka Heritage Retro Court Sneaker - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p1-img3-426308.jpg",
+        "alt_text": "Onitsuka Heritage Retro Court Sneaker - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p1-img4-426312.jpg",
+        "alt_text": "Onitsuka Heritage Retro Court Sneaker - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 63,
+        "name": "EU 39",
+        "type": "size",
+        "value": "EU 39",
+        "stock": 15,
+        "sku": "KAVY-ACC-001-EU39"
+      },
+      {
+        "product_id": 63,
+        "name": "EU 40",
+        "type": "size",
+        "value": "EU 40",
+        "stock": 15,
+        "sku": "KAVY-ACC-001-EU40"
+      },
+      {
+        "product_id": 63,
+        "name": "EU 41",
+        "type": "size",
+        "value": "EU 41",
+        "stock": 15,
+        "sku": "KAVY-ACC-001-EU41"
+      },
+      {
+        "product_id": 63,
+        "name": "EU 42",
+        "type": "size",
+        "value": "EU 42",
+        "stock": 15,
+        "sku": "KAVY-ACC-001-EU42"
+      },
+      {
+        "product_id": 63,
+        "name": "EU 43",
+        "type": "size",
+        "value": "EU 43",
+        "stock": 15,
+        "sku": "KAVY-ACC-001-EU43"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Artisan Full-Grain Leather Weekender Duffle",
+    "slug": "artisan-full-grain-leather-weekender-duffle",
+    "description": "Handcrafted from vegetable-tanned pull-up leather that develops a magnificent patina over the years. Heavy-duty brass hardware, reinforced leather handles, and a detachable padded shoulder strap.",
+    "price": 1149,
+    "compare_at_price": 1599,
+    "category_id": 7,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-ACC-002",
+    "stock": 90,
+    "low_stock_threshold": 5,
+    "is_featured": true,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "accessories,shoes,leather,sneakers,boots,bag,hat,jewelry,artisan,full,grain,leather,weekender,duffle,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:47:15.770322+00:00",
+    "updated_at": "2026-11-11T16:47:15.770322+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-accessories-p2-img1-431380.jpg",
+        "alt_text": "Artisan Full-Grain Leather Weekender Duffle - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-accessories-p2-img2-431381.jpg",
+        "alt_text": "Artisan Full-Grain Leather Weekender Duffle - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p2-img3-431382.jpg",
+        "alt_text": "Artisan Full-Grain Leather Weekender Duffle - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p2-img4-431382.jpg",
+        "alt_text": "Artisan Full-Grain Leather Weekender Duffle - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 64,
+        "name": "One Size",
+        "type": "size",
+        "value": "One Size",
+        "stock": 60,
+        "sku": "KAVY-ACC-002-OS"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Suede Chelsea Ankle Boot with Crepe Sole",
+    "slug": "suede-chelsea-ankle-boot-with-crepe-sole",
+    "description": "Hand-finished in velvety Italian calf suede with flexible elastic side gussets and a pull tab. Set on an all-natural cushion crepe rubber sole that provides exceptional shock absorption.",
+    "price": 1399,
+    "compare_at_price": 1899,
+    "category_id": 7,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-ACC-003",
+    "stock": 100,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "accessories,shoes,leather,sneakers,boots,bag,hat,jewelry,suede,chelsea,ankle,boot,with,crepe,sole,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:47:18.102972+00:00",
+    "updated_at": "2026-11-11T16:47:18.102972+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-accessories-p3-img1-434980.jpg",
+        "alt_text": "Suede Chelsea Ankle Boot with Crepe Sole - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-accessories-p3-img2-434981.jpg",
+        "alt_text": "Suede Chelsea Ankle Boot with Crepe Sole - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p3-img3-434981.jpg",
+        "alt_text": "Suede Chelsea Ankle Boot with Crepe Sole - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p3-img4-434981.jpg",
+        "alt_text": "Suede Chelsea Ankle Boot with Crepe Sole - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 65,
+        "name": "EU 39",
+        "type": "size",
+        "value": "EU 39",
+        "stock": 15,
+        "sku": "KAVY-ACC-003-EU39"
+      },
+      {
+        "product_id": 65,
+        "name": "EU 40",
+        "type": "size",
+        "value": "EU 40",
+        "stock": 15,
+        "sku": "KAVY-ACC-003-EU40"
+      },
+      {
+        "product_id": 65,
+        "name": "EU 41",
+        "type": "size",
+        "value": "EU 41",
+        "stock": 15,
+        "sku": "KAVY-ACC-003-EU41"
+      },
+      {
+        "product_id": 65,
+        "name": "EU 42",
+        "type": "size",
+        "value": "EU 42",
+        "stock": 15,
+        "sku": "KAVY-ACC-003-EU42"
+      },
+      {
+        "product_id": 65,
+        "name": "EU 43",
+        "type": "size",
+        "value": "EU 43",
+        "stock": 15,
+        "sku": "KAVY-ACC-003-EU43"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Handwoven Natural Raffia Summer Tote",
+    "slug": "handwoven-natural-raffia-summer-tote",
+    "description": "Ethically hand-woven from sustainable Madagascar raffia palm with sturdy genuine leather shoulder straps. Spacious interior with an organic cotton drawstring lining to secure valuables.",
+    "price": 1649,
+    "compare_at_price": 2199,
+    "category_id": 7,
+    "collection_id": 1,
+    "brand_id": null,
+    "sku": "KAVY-ACC-004",
+    "stock": 110,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "accessories,shoes,leather,sneakers,boots,bag,hat,jewelry,handwoven,natural,raffia,summer,tote,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:47:20.110394+00:00",
+    "updated_at": "2026-11-11T16:47:20.110394+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-accessories-p4-img1-436929.jpg",
+        "alt_text": "Handwoven Natural Raffia Summer Tote - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-accessories-p4-img2-436929.jpg",
+        "alt_text": "Handwoven Natural Raffia Summer Tote - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p4-img3-436930.jpg",
+        "alt_text": "Handwoven Natural Raffia Summer Tote - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p4-img4-436930.jpg",
+        "alt_text": "Handwoven Natural Raffia Summer Tote - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 66,
+        "name": "One Size",
+        "type": "size",
+        "value": "One Size",
+        "stock": 60,
+        "sku": "KAVY-ACC-004-OS"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Retro Canvas Skate Low-Top Sneaker",
+    "slug": "retro-canvas-skate-low-top-sneaker",
+    "description": "Durable 12 oz cotton canvas upper with double-stitched reinforcements, vulcanized rubber waffle outsole, and padded collar for effortless everyday comfort and skater style.",
+    "price": 1899,
+    "compare_at_price": 2599,
+    "category_id": 7,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-ACC-005",
+    "stock": 120,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "accessories,shoes,leather,sneakers,boots,bag,hat,jewelry,retro,canvas,skate,low,top,sneaker,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:47:23.0297+00:00",
+    "updated_at": "2026-11-11T16:47:23.0297+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-accessories-p5-img1-439403.jpg",
+        "alt_text": "Retro Canvas Skate Low-Top Sneaker - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-accessories-p5-img2-439403.jpg",
+        "alt_text": "Retro Canvas Skate Low-Top Sneaker - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p5-img3-439404.jpg",
+        "alt_text": "Retro Canvas Skate Low-Top Sneaker - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p5-img4-439404.jpg",
+        "alt_text": "Retro Canvas Skate Low-Top Sneaker - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 67,
+        "name": "EU 39",
+        "type": "size",
+        "value": "EU 39",
+        "stock": 15,
+        "sku": "KAVY-ACC-005-EU39"
+      },
+      {
+        "product_id": 67,
+        "name": "EU 40",
+        "type": "size",
+        "value": "EU 40",
+        "stock": 15,
+        "sku": "KAVY-ACC-005-EU40"
+      },
+      {
+        "product_id": 67,
+        "name": "EU 41",
+        "type": "size",
+        "value": "EU 41",
+        "stock": 15,
+        "sku": "KAVY-ACC-005-EU41"
+      },
+      {
+        "product_id": 67,
+        "name": "EU 42",
+        "type": "size",
+        "value": "EU 42",
+        "stock": 15,
+        "sku": "KAVY-ACC-005-EU42"
+      },
+      {
+        "product_id": 67,
+        "name": "EU 43",
+        "type": "size",
+        "value": "EU 43",
+        "stock": 15,
+        "sku": "KAVY-ACC-005-EU43"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Classic Wool Felt Wide-Brim Fedora",
+    "slug": "classic-wool-felt-wide-brim-fedora",
+    "description": "Structured crown blocked from 100% Australian merino wool felt. Trimmed with a tonal raw-edge leather band and an interior moisture-wicking sweatband with adjustable sizing tape.",
+    "price": 2149,
+    "compare_at_price": 2899,
+    "category_id": 7,
+    "collection_id": 2,
+    "brand_id": null,
+    "sku": "KAVY-ACC-006",
+    "stock": 130,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "accessories,shoes,leather,sneakers,boots,bag,hat,jewelry,classic,wool,felt,wide,brim,fedora,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:47:25.798257+00:00",
+    "updated_at": "2026-11-11T16:47:25.798257+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-accessories-p6-img1-441900.jpg",
+        "alt_text": "Classic Wool Felt Wide-Brim Fedora - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-accessories-p6-img2-441901.jpg",
+        "alt_text": "Classic Wool Felt Wide-Brim Fedora - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p6-img3-441902.jpg",
+        "alt_text": "Classic Wool Felt Wide-Brim Fedora - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p6-img4-441902.jpg",
+        "alt_text": "Classic Wool Felt Wide-Brim Fedora - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 68,
+        "name": "One Size",
+        "type": "size",
+        "value": "One Size",
+        "stock": 60,
+        "sku": "KAVY-ACC-006-OS"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Minimalist Matte Chronograph Watch",
+    "slug": "minimalist-matte-chronograph-watch",
+    "description": "Precision Japanese quartz movement housed in a 40mm brushed stainless steel casing. Scratch-resistant sapphire crystal glass and an interchangeable genuine Italian Horween leather strap.",
+    "price": 2399,
+    "compare_at_price": 3199,
+    "category_id": 7,
+    "collection_id": 3,
+    "brand_id": null,
+    "sku": "KAVY-ACC-007",
+    "stock": 140,
+    "low_stock_threshold": 5,
+    "is_featured": false,
+    "is_active": true,
+    "hide_when_out_of_stock": false,
+    "continue_selling": false,
+    "meta_title": "",
+    "meta_description": "",
+    "tags": "accessories,shoes,leather,sneakers,boots,bag,hat,jewelry,minimalist,matte,chronograph,watch,kavy,real-pinterest",
+    "created_at": "2026-11-11T16:47:28.273312+00:00",
+    "updated_at": "2026-11-11T16:47:28.273312+00:00",
+    "images": [
+      {
+        "url": "/storage/products/pin-accessories-p7-img1-444599.jpg",
+        "alt_text": "Minimalist Matte Chronograph Watch - View 1 (Front View)",
+        "position": 0,
+        "is_primary": true
+      },
+      {
+        "url": "/storage/products/pin-accessories-p7-img2-444600.jpg",
+        "alt_text": "Minimalist Matte Chronograph Watch - View 2 (Detail & Fabric)",
+        "position": 1,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p7-img3-444600.jpg",
+        "alt_text": "Minimalist Matte Chronograph Watch - View 3 (Side Angle)",
+        "position": 2,
+        "is_primary": false
+      },
+      {
+        "url": "/storage/products/pin-accessories-p7-img4-444601.jpg",
+        "alt_text": "Minimalist Matte Chronograph Watch - View 4 (Aesthetic Styling)",
+        "position": 3,
+        "is_primary": false
+      }
+    ],
+    "variants": [
+      {
+        "product_id": 69,
+        "name": "One Size",
+        "type": "size",
+        "value": "One Size",
+        "stock": 60,
+        "sku": "KAVY-ACC-007-OS"
+      }
+    ]
+  }
+]

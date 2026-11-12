@@ -1,0 +1,341 @@
+/* ═══════════════════════════════════════════════
+   Review Section with Customer Demo Video & Carousel
+   ═══════════════════════════════════════════════ */
+
+.review-showcase-wrap {
+  display: grid;
+  grid-template-columns: 1fr 1.25fr;
+  gap: 2rem;
+  align-items: stretch;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: 'Plus Jakarta Sans', 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* ─── 1. Left: Customer Demo Video Card ───────── */
+.review-video-card {
+  position: relative;
+  border-radius: 22px;
+  overflow: hidden;
+  background: #0f172a;
+  min-height: 420px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.12);
+  cursor: pointer;
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.review-video-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.18);
+}
+
+.review-video-player {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Top Floating Badge */
+.review-video-badge {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 4;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.4rem 0.85rem;
+  border-radius: 9999px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  pointer-events: none;
+}
+
+.review-video-badge__dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #22c55e;
+  box-shadow: 0 0 8px #22c55e;
+  animation: pulseDot 2s infinite ease-in-out;
+}
+
+@keyframes pulseDot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.85); }
+}
+
+/* Central Play Button */
+.review-video-play-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 4;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  background: rgba(15, 23, 42, 0.7);
+  backdrop-filter: blur(8px);
+  border: 1.5px solid rgba(255, 255, 255, 0.35);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.review-video-card:hover .review-video-play-btn {
+  transform: translate(-50%, -50%) scale(1.1);
+  background: rgba(2, 132, 199, 0.85);
+  border-color: rgba(255, 255, 255, 0.6);
+}
+
+.review-video-play-btn--active {
+  opacity: 0.85;
+}
+
+.review-video-card:hover .review-video-play-btn--active {
+  opacity: 1;
+}
+
+/* Sound Button */
+.review-video-sound-btn {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 4;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.review-video-sound-btn:hover {
+  background: #0284c7;
+  transform: scale(1.1);
+}
+
+/* Bottom Overlay */
+.review-video-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 3;
+  padding: 3rem 1.5rem 1.25rem;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.5) 60%, transparent 100%);
+  pointer-events: none;
+}
+
+.review-video-stars {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  margin-bottom: 0.4rem;
+}
+
+.review-video-quote {
+  color: #ffffff;
+  font-size: 0.94rem;
+  font-weight: 500;
+  line-height: 1.4;
+  margin: 0 0 0.4rem;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.review-video-author {
+  color: #bae6fd;
+  font-size: 0.78rem;
+  font-weight: 600;
+  display: block;
+}
+
+/* ─── 2. Right: Review Testimonials Box ───────── */
+.review-carousel-box {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 22px;
+  padding: 2.75rem 2.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(15, 23, 42, 0.05);
+}
+
+/* Trust Pill */
+.review-trust-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  background: #f0f9ff;
+  border: 1px solid #bae6fd;
+  border-radius: 9999px;
+  padding: 0.4rem 1rem;
+  width: fit-content;
+  margin-bottom: 1.5rem;
+}
+
+.review-trust-pill__stars {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.review-trust-pill__text {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #0369a1;
+}
+
+/* Giant Quote Mark */
+.review-quote-mark {
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 8rem;
+  font-family: Georgia, serif;
+  line-height: 1;
+  color: rgba(14, 165, 233, 0.08);
+  user-select: none;
+  pointer-events: none;
+}
+
+.review-carousel__card {
+  position: relative;
+  z-index: 2;
+  margin-bottom: 1.5rem;
+}
+
+.review-carousel__stars {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 1rem;
+}
+
+.review-carousel__stars svg {
+  width: 20px;
+  height: 20px;
+}
+
+.review-carousel__comment {
+  font-size: clamp(1.05rem, 1.8vw, 1.25rem);
+  font-weight: 500;
+  line-height: 1.6;
+  color: #1e293b;
+  margin: 0 0 1.5rem;
+  font-style: normal;
+}
+
+.review-carousel__meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.review-carousel__author {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.review-carousel__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.76rem;
+  font-weight: 600;
+  color: #0284c7;
+  background: #e0f2fe;
+  padding: 0.2rem 0.6rem;
+  border-radius: 9999px;
+}
+
+/* Controls */
+.review-carousel__controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 1.25rem;
+  border-top: 1px solid #f1f5f9;
+  position: relative;
+  z-index: 2;
+}
+
+.review-carousel__btn {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: 1.5px solid #e2e8f0;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #0f172a;
+  cursor: pointer;
+  transition: all var(--motion-fast) var(--ease-out);
+}
+
+.review-carousel__btn:hover {
+  background: #0ea5e9;
+  color: #ffffff;
+  border-color: #0ea5e9;
+  transform: translateY(-1px);
+}
+
+.review-carousel__dots {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.review-carousel__dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #cbd5e1;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: all var(--motion-fast) var(--ease-out);
+}
+
+.review-carousel__dot--active {
+  background: #0ea5e9;
+  width: 22px;
+}
+
+/* ─── Responsive ──────────────────────────────── */
+@media (max-width: 960px) {
+  .review-showcase-wrap {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .review-video-card {
+    min-height: 340px;
+  }
+
+  .review-carousel-box {
+    padding: 2rem 1.5rem;
+  }
+}

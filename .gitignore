@@ -1,0 +1,23 @@
+node_modules/
+dist/
+deploy/
+.env
+.env.*
+!.env.example
+.firebase/
+KAVY ADMIN.txt
+*ADMIN*.txt
+*admin*.txt
+database/*.db
+database/*.db-shm
+database/*.db-wal
+database/*.sqlite
+storage/products/*
+storage/uploads/*
+storage/banners/*
+storage/logos/*
+storage/pages/*
+storage/temp/*
+storage/backups/*
+!storage/**/.gitkeep
+*.log

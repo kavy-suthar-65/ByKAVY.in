@@ -1,0 +1,239 @@
+/* ═══════════════════════════════════════════════
+   Header — FashionHub Modern Minimal Style
+   ═══════════════════════════════════════════════ */
+
+.header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background: #ffffff;
+  border-bottom: 1px solid #f1f5f9;
+  transition: box-shadow var(--motion-fast) var(--ease-out),
+              background-color var(--motion-fast) var(--ease-out);
+}
+
+.header--scrolled {
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.06);
+  border-bottom-color: #e2e8f0;
+}
+
+.header__inner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 68px;
+  gap: var(--space-xl);
+}
+
+/* ─── Logo (FashionHub Styled: ByKAVY in Navy, .in in Cyan) ─────── */
+.header__logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  flex-shrink: 0;
+  transition: opacity var(--motion-fast) var(--ease-out);
+}
+
+.header__logo:hover {
+  opacity: 0.88;
+}
+
+.header__logo-text {
+  display: inline-flex;
+  align-items: baseline;
+  line-height: 1;
+  user-select: none;
+  font-family: 'Plus Jakarta Sans', 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.header__logo-text .logo-main {
+  font-weight: 800;
+  font-size: clamp(1.4rem, 2.5vw, 1.75rem);
+  letter-spacing: -0.02em;
+  color: #0f172a; /* Slate 900 */
+}
+
+.header__logo-text .logo-accent {
+  font-weight: 800;
+  font-size: clamp(1.4rem, 2.5vw, 1.75rem);
+  letter-spacing: -0.01em;
+  color: #0ea5e9; /* Sky 500 */
+}
+
+/* ─── Desktop Navigation ─────────────────────── */
+.header__nav {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  flex: 1;
+  justify-content: center;
+}
+
+.header__nav-item {
+  position: relative;
+}
+
+.header__nav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.92rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: #334155;
+  padding: 0.5rem 0;
+  transition: color var(--motion-fast) var(--ease-out);
+  text-decoration: none;
+  position: relative;
+}
+
+/* Blue underline on hover & active */
+.header__nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 0;
+  width: 0%;
+  height: 2.5px;
+  background: #0ea5e9;
+  border-radius: 2px;
+  transition: width 0.25s ease;
+}
+
+.header__nav-link:hover::after,
+.header__nav-link--active::after {
+  width: 100%;
+}
+
+.header__nav-link:hover,
+.header__nav-link--active {
+  color: #0ea5e9;
+}
+
+.header__nav-caret {
+  transition: transform var(--motion-fast) var(--ease-out);
+  color: #64748b;
+}
+
+.header__nav-item:hover .header__nav-caret {
+  transform: rotate(180deg);
+  color: #0ea5e9;
+}
+
+/* ─── Action Buttons ─────────────────────────── */
+.header__actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.header__action-btn {
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  color: #334155;
+  transition: background var(--motion-fast) var(--ease-out),
+              color var(--motion-fast) var(--ease-out);
+  position: relative;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.header__action-btn:hover {
+  background: #f1f5f9;
+  color: #0f172a;
+}
+
+/* Cart Count Badge - Bright Red Circle as in FashionHub photo */
+.header__cart-count {
+  position: absolute;
+  top: 1px;
+  right: 1px;
+  width: 17px;
+  height: 17px;
+  border-radius: 9999px;
+  background: #ef4444; /* Vivid Red */
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  box-shadow: 0 1px 3px rgba(239, 68, 68, 0.4);
+}
+
+/* ─── Hamburger (Mobile) ─────────────────────── */
+.header__hamburger {
+  display: none;
+  width: 40px;
+  height: 40px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  border-radius: 9999px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: background var(--motion-fast) var(--ease-out);
+}
+
+.header__hamburger:hover {
+  background: #f1f5f9;
+}
+
+.hamburger-line {
+  display: block;
+  width: 18px;
+  height: 1.5px;
+  background: #0f172a;
+  border-radius: 2px;
+  transition: transform var(--motion-base) var(--ease-smooth),
+              opacity var(--motion-base) var(--ease-smooth);
+}
+
+/* ─── Responsive ─────────────────────────────── */
+@media (max-width: 900px) {
+  .header__hamburger {
+    display: flex;
+  }
+
+  .header__nav {
+    display: none;
+  }
+
+  .header__inner {
+    gap: var(--space-sm);
+  }
+
+  .header__logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-width: 640px) {
+  .header__actions {
+    gap: 0.15rem;
+  }
+
+  .header__action-btn {
+    width: 36px;
+    height: 36px;
+  }
+
+  .header__action-btn svg {
+    width: 19px;
+    height: 19px;
+  }
+}
